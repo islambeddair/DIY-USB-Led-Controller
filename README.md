@@ -1,2 +1,2 @@
-# DIY-USB-LED-Controller
+# DIY-USB-LED-Controller-Hardware
 DIY-USB-LED-Driver
