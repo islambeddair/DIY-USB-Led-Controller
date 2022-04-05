@@ -1,2 +1,3 @@
 # DIY-USB-LED-Controller-Hardware
-DIY-USB-LED-Driver
+DIY-USB-LED-Controller-Hardware
+schematic 
