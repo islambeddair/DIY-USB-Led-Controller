@@ -1,0 +1,180 @@
+Change Component Designator: OldDesignator=J3 NewDesignator=J9
+Change Component Designator: OldDesignator=J4 NewDesignator=J10
+Change Component Designator: OldDesignator=J5.1 NewDesignator=J11.1
+Change Component Designator: OldDesignator=J5.2 NewDesignator=J11.2
+Change Component Designator: OldDesignator=J5.3 NewDesignator=J11.3
+Change Component Designator: OldDesignator=J5.4 NewDesignator=J11.4
+Change Component Designator: OldDesignator=J5.5 NewDesignator=J11.5
+Change Component Designator: OldDesignator=J5.6 NewDesignator=J11.6
+Change Component Designator: OldDesignator=J5.7 NewDesignator=J11.7
+Change Component Designator: OldDesignator=J5.8 NewDesignator=J11.8
+Change Component Designator: OldDesignator=J5.9 NewDesignator=J11.9
+Change Component Designator: OldDesignator=J5.10 NewDesignator=J11.10
+Added Component: Designator=C31.1(CAP SMD 0805)
+Added Component: Designator=C31.2(CAP SMD 0805)
+Added Component: Designator=C31.3(CAP SMD 0805)
+Added Component: Designator=C31.4(CAP SMD 0805)
+Added Component: Designator=C31.5(CAP SMD 0805)
+Added Component: Designator=C31.6(CAP SMD 0805)
+Added Component: Designator=C31.7(CAP SMD 0805)
+Added Component: Designator=C31.8(CAP SMD 0805)
+Added Component: Designator=C31.9(CAP SMD 0805)
+Added Component: Designator=C31.10(CAP SMD 0805)
+Added Component: Designator=C32.1(CAP SMD 0805)
+Added Component: Designator=C32.2(CAP SMD 0805)
+Added Component: Designator=C32.3(CAP SMD 0805)
+Added Component: Designator=C32.4(CAP SMD 0805)
+Added Component: Designator=C32.5(CAP SMD 0805)
+Added Component: Designator=C32.6(CAP SMD 0805)
+Added Component: Designator=C32.7(CAP SMD 0805)
+Added Component: Designator=C32.8(CAP SMD 0805)
+Added Component: Designator=C32.9(CAP SMD 0805)
+Added Component: Designator=C32.10(CAP SMD 0805)
+Added Component: Designator=C33.1(CAP SMD 0805)
+Added Component: Designator=C33.2(CAP SMD 0805)
+Added Component: Designator=C33.3(CAP SMD 0805)
+Added Component: Designator=C33.4(CAP SMD 0805)
+Added Component: Designator=C33.5(CAP SMD 0805)
+Added Component: Designator=C33.6(CAP SMD 0805)
+Added Component: Designator=C33.7(CAP SMD 0805)
+Added Component: Designator=C33.8(CAP SMD 0805)
+Added Component: Designator=C33.9(CAP SMD 0805)
+Added Component: Designator=C33.10(CAP SMD 0805)
+Added Component: Designator=C34.1(CAP SMD 0805)
+Added Component: Designator=C34.2(CAP SMD 0805)
+Added Component: Designator=C34.3(CAP SMD 0805)
+Added Component: Designator=C34.4(CAP SMD 0805)
+Added Component: Designator=C34.5(CAP SMD 0805)
+Added Component: Designator=C34.6(CAP SMD 0805)
+Added Component: Designator=C34.7(CAP SMD 0805)
+Added Component: Designator=C34.8(CAP SMD 0805)
+Added Component: Designator=C34.9(CAP SMD 0805)
+Added Component: Designator=C34.10(CAP SMD 0805)
+Added Pin To Net: NetName=GND Pin=C31.1-1
+Added Pin To Net: NetName=12V Pin=C31.1-2
+Added Pin To Net: NetName=GND Pin=C31.2-1
+Added Pin To Net: NetName=12V Pin=C31.2-2
+Added Pin To Net: NetName=GND Pin=C31.3-1
+Added Pin To Net: NetName=12V Pin=C31.3-2
+Added Pin To Net: NetName=GND Pin=C31.4-1
+Added Pin To Net: NetName=12V Pin=C31.4-2
+Added Pin To Net: NetName=GND Pin=C31.5-1
+Added Pin To Net: NetName=12V Pin=C31.5-2
+Added Pin To Net: NetName=GND Pin=C31.6-1
+Added Pin To Net: NetName=12V Pin=C31.6-2
+Added Pin To Net: NetName=GND Pin=C31.7-1
+Added Pin To Net: NetName=12V Pin=C31.7-2
+Added Pin To Net: NetName=GND Pin=C31.8-1
+Added Pin To Net: NetName=12V Pin=C31.8-2
+Added Pin To Net: NetName=GND Pin=C31.9-1
+Added Pin To Net: NetName=12V Pin=C31.9-2
+Added Pin To Net: NetName=GND Pin=C31.10-1
+Added Pin To Net: NetName=12V Pin=C31.10-2
+Added Pin To Net: NetName=GND Pin=C32.1-1
+Added Pin To Net: NetName=12V Pin=C32.1-2
+Added Pin To Net: NetName=GND Pin=C32.2-1
+Added Pin To Net: NetName=12V Pin=C32.2-2
+Added Pin To Net: NetName=GND Pin=C32.3-1
+Added Pin To Net: NetName=12V Pin=C32.3-2
+Added Pin To Net: NetName=GND Pin=C32.4-1
+Added Pin To Net: NetName=12V Pin=C32.4-2
+Added Pin To Net: NetName=GND Pin=C32.5-1
+Added Pin To Net: NetName=12V Pin=C32.5-2
+Added Pin To Net: NetName=GND Pin=C32.6-1
+Added Pin To Net: NetName=12V Pin=C32.6-2
+Added Pin To Net: NetName=GND Pin=C32.7-1
+Added Pin To Net: NetName=12V Pin=C32.7-2
+Added Pin To Net: NetName=GND Pin=C32.8-1
+Added Pin To Net: NetName=12V Pin=C32.8-2
+Added Pin To Net: NetName=GND Pin=C32.9-1
+Added Pin To Net: NetName=12V Pin=C32.9-2
+Added Pin To Net: NetName=GND Pin=C32.10-1
+Added Pin To Net: NetName=12V Pin=C32.10-2
+Added Pin To Net: NetName=GND Pin=C33.1-1
+Added Pin To Net: NetName=12V Pin=C33.1-2
+Added Pin To Net: NetName=GND Pin=C33.2-1
+Added Pin To Net: NetName=12V Pin=C33.2-2
+Added Pin To Net: NetName=GND Pin=C33.3-1
+Added Pin To Net: NetName=12V Pin=C33.3-2
+Added Pin To Net: NetName=GND Pin=C33.4-1
+Added Pin To Net: NetName=12V Pin=C33.4-2
+Added Pin To Net: NetName=GND Pin=C33.5-1
+Added Pin To Net: NetName=12V Pin=C33.5-2
+Added Pin To Net: NetName=GND Pin=C33.6-1
+Added Pin To Net: NetName=12V Pin=C33.6-2
+Added Pin To Net: NetName=GND Pin=C33.7-1
+Added Pin To Net: NetName=12V Pin=C33.7-2
+Added Pin To Net: NetName=GND Pin=C33.8-1
+Added Pin To Net: NetName=12V Pin=C33.8-2
+Added Pin To Net: NetName=GND Pin=C33.9-1
+Added Pin To Net: NetName=12V Pin=C33.9-2
+Added Pin To Net: NetName=GND Pin=C33.10-1
+Added Pin To Net: NetName=12V Pin=C33.10-2
+Added Pin To Net: NetName=GND Pin=C34.1-1
+Added Pin To Net: NetName=12V Pin=C34.1-2
+Added Pin To Net: NetName=GND Pin=C34.2-1
+Added Pin To Net: NetName=12V Pin=C34.2-2
+Added Pin To Net: NetName=GND Pin=C34.3-1
+Added Pin To Net: NetName=12V Pin=C34.3-2
+Added Pin To Net: NetName=GND Pin=C34.4-1
+Added Pin To Net: NetName=12V Pin=C34.4-2
+Added Pin To Net: NetName=GND Pin=C34.5-1
+Added Pin To Net: NetName=12V Pin=C34.5-2
+Added Pin To Net: NetName=GND Pin=C34.6-1
+Added Pin To Net: NetName=12V Pin=C34.6-2
+Added Pin To Net: NetName=GND Pin=C34.7-1
+Added Pin To Net: NetName=12V Pin=C34.7-2
+Added Pin To Net: NetName=GND Pin=C34.8-1
+Added Pin To Net: NetName=12V Pin=C34.8-2
+Added Pin To Net: NetName=GND Pin=C34.9-1
+Added Pin To Net: NetName=12V Pin=C34.9-2
+Added Pin To Net: NetName=GND Pin=C34.10-1
+Added Pin To Net: NetName=12V Pin=C34.10-2
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component C31.1 (C31) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component C31.2 (C31) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component C31.3 (C31) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component C31.4 (C31) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component C31.5 (C31) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component C31.6 (C31) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component C31.7 (C31) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component C31.8 (C31) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component C31.9 (C31) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component C31.10 (C31) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component C32.1 (C32) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component C32.2 (C32) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component C32.3 (C32) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component C32.4 (C32) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component C32.5 (C32) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component C32.6 (C32) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component C32.7 (C32) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component C32.8 (C32) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component C32.9 (C32) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component C32.10 (C32) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component C33.1 (C33) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component C33.2 (C33) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component C33.3 (C33) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component C33.4 (C33) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component C33.5 (C33) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component C33.6 (C33) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component C33.7 (C33) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component C33.8 (C33) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component C33.9 (C33) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component C33.10 (C33) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component C34.1 (C34) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component C34.2 (C34) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component C34.3 (C34) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component C34.4 (C34) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component C34.5 (C34) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component C34.6 (C34) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component C34.7 (C34) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component C34.8 (C34) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component C34.9 (C34) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component C34.10 (C34) C0805C475K9PAC7210
+Added Member To Class: ClassName=U_microcontroller Member=Component J3 Socket
+Added Member To Class: ClassName=U_microcontroller Member=Component J4 Socket
+Added Member To Class: ClassName=U_microcontroller Member=Component J5 Socket
+Added Member To Class: ClassName=U_microcontroller Member=Component J6 Socket
+Added Member To Class: ClassName=U_microcontroller Member=Component J7 Socket
+Added Member To Class: ClassName=U_microcontroller Member=Component J8 Socket
+Added Member To Class: ClassName=U_microcontroller Member=Component J9 HEADER 2x3
+Added Member To Class: ClassName=U_USB_CH340G Member=Component J10 UJ2-BH-W1-TH

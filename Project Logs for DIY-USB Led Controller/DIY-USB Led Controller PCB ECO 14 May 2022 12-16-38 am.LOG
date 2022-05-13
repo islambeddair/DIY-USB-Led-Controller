@@ -1,0 +1,77 @@
+Added Component: Designator=J4(XH-Conn 1*4 straight)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/jst-sales-america-inc/B4B-XH-A-LF-SN/455-2249-ND/1651047"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Post"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Length - Post"; Value = "0.134" (3.40mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Detent Lock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "0.276" (7.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polyamide (PA66), Nylon 6/6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "1/12/2020 11:46:34 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST Sales America Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-25°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "69"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch - Mating"; Value = "0.098" (2.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "XH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shrouding"; Value = "Shrouded - 4 Wall"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Board to Cable/Wire"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-2249-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Press-Fit, Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RXD Pin=J4-1
+Added Pin To Net: NetName=TXD Pin=J4-2
+Added Pin To Net: NetName=VCC Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Change Net Name : Old Net Name=TXD New Net Name=RXD3
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component C28.2 (C28) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component C28.8 (C28) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component C28.10 (C28) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component C29.1 (C29) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component C29.2 (C29) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component C29.3 (C29) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component C29.4 (C29) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component C29.5 (C29) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component C29.6 (C29) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component C29.7 (C29) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component C29.8 (C29) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component C29.9 (C29) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component C29.10 (C29) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component C30.2 (C30) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component C30.4 (C30) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component C30.6 (C30) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component C30.8 (C30) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component C30.10 (C30) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component C31.1 (C31) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component C31.3 (C31) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component C31.4 (C31) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component C31.5 (C31) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component C31.6 (C31) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component C31.7 (C31) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component C31.9 (C31) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component C33.1 (C33) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component C33.3 (C33) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component C33.5 (C33) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component C33.7 (C33) C0805C475K9PAC7210
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component C33.9 (C33) C0805C475K9PAC7210
+Added Member To Class: ClassName=U_microcontroller Member=Component J3 Socket
+Added Member To Class: ClassName=U_microcontroller Member=Component J4 B4B-XH-A(LF)(SN)

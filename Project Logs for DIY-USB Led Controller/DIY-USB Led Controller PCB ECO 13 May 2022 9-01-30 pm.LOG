@@ -1,0 +1,16 @@
+Added Component: Designator=S1(SW_DS02-254-2L-04BE)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DS02-254-2L-04BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=S1-1A
+Added Pin To Net: NetName=NetS1_1B Pin=S1-1B
+Added Pin To Net: NetName=GND Pin=S1-2A
+Added Pin To Net: NetName=NetS1_2B Pin=S1-2B
+Added Pin To Net: NetName=GND Pin=S1-3A
+Added Pin To Net: NetName=NetS1_3B Pin=S1-3B
+Added Pin To Net: NetName=GND Pin=S1-4A
+Added Pin To Net: NetName=NetS1_4B Pin=S1-4B
+Added Member To Class: ClassName=DIY-USB Led Controller Member=Component S1 DS02-254-2L-04BE
