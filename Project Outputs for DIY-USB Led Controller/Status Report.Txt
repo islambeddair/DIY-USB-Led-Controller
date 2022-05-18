@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DIY-USB Led Controller.PrjPcb]
+   Generated File[DIY-USB Led Controller.TXT]
+   Generated File[DIY-USB Led Controller.LDP]
+   Generated File[DIY-USB Led Controller.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:21:34 pm On 18 May 2022

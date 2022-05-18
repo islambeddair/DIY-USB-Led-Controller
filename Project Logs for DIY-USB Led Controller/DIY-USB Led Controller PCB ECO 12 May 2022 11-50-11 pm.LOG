@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=LED_PIN_R6 Pin=U3-36
-Removed Pin From Net: NetName=LED_PIN_G6 Pin=U3-37
-Removed Pin From Net: NetName=LED_PIN_B6 Pin=U3-38
-Removed Pin From Net: NetName=LED_PIN_W6 Pin=U3-39
-Added Pin To Net: NetName=LED_PIN_W6 Pin=U3-36
-Added Pin To Net: NetName=LED_PIN_B6 Pin=U3-37
-Added Pin To Net: NetName=LED_PIN_G6 Pin=U3-38
-Added Pin To Net: NetName=LED_PIN_R6 Pin=U3-39

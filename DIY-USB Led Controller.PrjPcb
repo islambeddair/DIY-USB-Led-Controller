@@ -193,7 +193,113 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document10]
+DocumentPath=DIY-USB Led Controller.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VOPDKCOK
+
+[Document11]
+DocumentPath=DIY-USB Led Controller.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IUGPTRVA
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for DIY-USB Led Controller\Design Rule Check - DIY-USB Led Controller.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for DIY-USB Led Controller\DIY-USB Led Controller.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for DIY-USB Led Controller\DIY-USB Led Controller.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for DIY-USB Led Controller\DIY-USB Led Controller.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for DIY-USB Led Controller\DIY-USB Led Controller.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for DIY-USB Led Controller\DIY-USB Led Controller.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for DIY-USB Led Controller\DIY-USB Led Controller.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for DIY-USB Led Controller\DIY-USB Led Controller.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for DIY-USB Led Controller\DIY-USB Led Controller.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for DIY-USB Led Controller\DIY-USB Led Controller.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for DIY-USB Led Controller\DIY-USB Led Controller.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for DIY-USB Led Controller\DIY-USB Led Controller.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for DIY-USB Led Controller\DIY-USB Led Controller.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for DIY-USB Led Controller\DIY-USB Led Controller.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for DIY-USB Led Controller\DIY-USB Led Controller.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for DIY-USB Led Controller\DIY-USB Led Controller.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for DIY-USB Led Controller\DIY-USB Led Controller.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for DIY-USB Led Controller\DIY-USB Led Controller.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument19]
 DocumentPath=Project Outputs for DIY-USB Led Controller\DIY-USB Led Controller.xlsx
 DItemRevisionGUID=
 
@@ -420,20 +526,20 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=CompositeDrill
+OutputName1=Composite Drill Drawing
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+OutputType2=Drill
+OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=Board Stack Report
+OutputName3=Report Board Stack
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
@@ -444,48 +550,56 @@ OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Gerber X2
+OutputName5=Gerber X2 Files
 OutputDocumentPath5=
-OutputVariantName5=[No Variations]
+OutputVariantName5=
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+OutputType6=ODB
+OutputName6=ODB++ Files
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=NC Drill
+OutputName8=NC Drill Files
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+Configuration8_Name1=ForceUpdateSettings
+Configuration8_Item1=False
+Configuration8_Name2=OutputConfigurationParameter1
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\Public\Documents\Altium\Projects\DIY-USB-Led-Controller\DIY-USB Led Controller.PcbDoc
+OutputType9=IPC2581
+OutputName9=IPC-2581 Files
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+OutputType10=Plane
+OutputName10=Power-Plane Prints
 OutputDocumentPath10=
-OutputVariantName10=[No Variations]
+OutputVariantName10=
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=Test Points
+OutputName11=Test Point Report
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\Public\Documents\Altium\Projects\DIY-USB-Led-Controller\DIY-USB Led Controller.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1120,11 +1234,11 @@ MatchStrictly2=1
 PhysicalNamingFormat=$ComponentPrefix$ComponentIndex.$ChannelIndex
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
-UniqueIDPath0=\TOGEICTU
-DocumentName0=LED_PORT.SchDoc
+UniqueIDPath0=\LGLZDJWY
+DocumentName0=microcontroller.SchDoc
 IsEnabled0=1
 SelectionScope0=All
-Order0=18
+Order0=13
 IndexEnabled0=0
 IndexStartValue0=1
 Suffix0=
@@ -1136,115 +1250,115 @@ Order1=14
 IndexEnabled1=0
 IndexStartValue1=1
 Suffix1=
-UniqueIDPath2=\RLSBTJAF
+UniqueIDPath2=\JSKRFGOW
 DocumentName2=LED_PORT.SchDoc
 IsEnabled2=1
 SelectionScope2=All
-Order2=20
+Order2=19
 IndexEnabled2=0
 IndexStartValue2=1
 Suffix2=
-UniqueIDPath3=\LGLZDJWY
-DocumentName3=microcontroller.SchDoc
+UniqueIDPath3=
+DocumentName3=DIY-USB Led Controller.SchDoc
 IsEnabled3=1
 SelectionScope3=All
-Order3=13
+Order3=1
 IndexEnabled3=0
 IndexStartValue3=1
 Suffix3=
-UniqueIDPath4=\GXHMJPPJ
-DocumentName4=USB_CH340G.SchDoc
+UniqueIDPath4=\RLSBTJAF
+DocumentName4=LED_PORT.SchDoc
 IsEnabled4=1
 SelectionScope4=All
-Order4=16
+Order4=20
 IndexEnabled4=0
 IndexStartValue4=1
 Suffix4=
-UniqueIDPath5=\GDMVINCM
+UniqueIDPath5=\YGZZEKLZ
 DocumentName5=LED_PORT.SchDoc
 IsEnabled5=1
 SelectionScope5=All
-Order5=22
+Order5=24
 IndexEnabled5=0
 IndexStartValue5=1
 Suffix5=
-UniqueIDPath6=
-DocumentName6=DIY-USB Led Controller.SchDoc
+UniqueIDPath6=\TOGEICTU
+DocumentName6=LED_PORT.SchDoc
 IsEnabled6=1
 SelectionScope6=All
-Order6=1
+Order6=18
 IndexEnabled6=0
 IndexStartValue6=1
 Suffix6=
-UniqueIDPath7=\LJESRPKB
-DocumentName7=LED_PORT.SchDoc
+UniqueIDPath7=\GXHMJPPJ
+DocumentName7=USB_CH340G.SchDoc
 IsEnabled7=1
 SelectionScope7=All
-Order7=17
+Order7=16
 IndexEnabled7=0
 IndexStartValue7=1
 Suffix7=
-UniqueIDPath8=\VRZEWOKG
-DocumentName8=EEPROM.SchDoc
+UniqueIDPath8=\AQPVLDCA
+DocumentName8=LED_PORT.SchDoc
 IsEnabled8=1
 SelectionScope8=All
-Order8=2
+Order8=23
 IndexEnabled8=0
 IndexStartValue8=1
 Suffix8=
-UniqueIDPath9=\VAOBPAZT
-DocumentName9=LED_PORT.SchDoc
+UniqueIDPath9=\GPVCHSRS
+DocumentName9=Rs232.SchDoc
 IsEnabled9=1
 SelectionScope9=All
-Order9=26
+Order9=15
 IndexEnabled9=0
 IndexStartValue9=1
 Suffix9=
-UniqueIDPath10=\UAQJMCOJ
+UniqueIDPath10=\GDMVINCM
 DocumentName10=LED_PORT.SchDoc
 IsEnabled10=1
 SelectionScope10=All
-Order10=21
+Order10=22
 IndexEnabled10=0
 IndexStartValue10=1
 Suffix10=
-UniqueIDPath11=\AQPVLDCA
-DocumentName11=LED_PORT.SchDoc
+UniqueIDPath11=\VRZEWOKG
+DocumentName11=EEPROM.SchDoc
 IsEnabled11=1
 SelectionScope11=All
-Order11=23
+Order11=2
 IndexEnabled11=0
 IndexStartValue11=1
 Suffix11=
-UniqueIDPath12=\PEHQICSJ
+UniqueIDPath12=\VAOBPAZT
 DocumentName12=LED_PORT.SchDoc
 IsEnabled12=1
 SelectionScope12=All
-Order12=25
+Order12=26
 IndexEnabled12=0
 IndexStartValue12=1
 Suffix12=
-UniqueIDPath13=\GPVCHSRS
-DocumentName13=Rs232.SchDoc
+UniqueIDPath13=\PEHQICSJ
+DocumentName13=LED_PORT.SchDoc
 IsEnabled13=1
 SelectionScope13=All
-Order13=15
+Order13=25
 IndexEnabled13=0
 IndexStartValue13=1
 Suffix13=
-UniqueIDPath14=\JSKRFGOW
+UniqueIDPath14=\UAQJMCOJ
 DocumentName14=LED_PORT.SchDoc
 IsEnabled14=1
 SelectionScope14=All
-Order14=19
+Order14=21
 IndexEnabled14=0
 IndexStartValue14=1
 Suffix14=
-UniqueIDPath15=\YGZZEKLZ
+UniqueIDPath15=\LJESRPKB
 DocumentName15=LED_PORT.SchDoc
 IsEnabled15=1
 SelectionScope15=All
-Order15=24
+Order15=17
 IndexEnabled15=0
 IndexStartValue15=1
 Suffix15=

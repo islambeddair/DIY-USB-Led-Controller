@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=NetS1_2B Pin=U3-4
-Removed Pin From Net: NetName=NetS1_1B Pin=U3-5
-Removed Pin From Net: NetName=NetS1_4B Pin=U3-62
-Removed Pin From Net: NetName=NetS1_3B Pin=U3-64
-Added Pin To Net: NetName=NetS1_3B Pin=U3-4
-Added Pin To Net: NetName=NetS1_4B Pin=U3-5
-Added Pin To Net: NetName=NetS1_1B Pin=U3-62
-Added Pin To Net: NetName=NetS1_2B Pin=U3-64
