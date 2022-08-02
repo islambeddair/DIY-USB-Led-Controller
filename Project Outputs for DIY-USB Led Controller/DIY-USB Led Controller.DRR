@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: DIY-USB Led Controller.PcbDoc   18 May 2022  11:21:34 pm
+NCDrill File Report For: DIY-USB Led Controller.PcbDoc   3 Jul 2022  12:50:55 am
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,16 +7,17 @@ ASCII RoundHoles File : DIY-USB Led Controller.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.711mm (28mil)                                           Round             108       PTH        0.00mm (0.00inch)
+T1      0.711mm (28mil)                                           Round             112       PTH        0.00mm (0.00inch)
 T2      0.8mm (31mil)                                             Round             18        PTH        0.00mm (0.00inch)
 T3      0.889mm (35mil)                                           Round             40        PTH        0.00mm (0.00inch)
-T4      0.9mm (35mil)                                             Round             4         PTH        0.00mm (0.00inch)
+T4      0.9mm (35mil)                                             Round             5         PTH        0.00mm (0.00inch)
 T5      0.92mm (36mil)                                            Round             4         PTH        0.00mm (0.00inch)
 T6      1mm (39mil)                                               Round             8         PTH        0.00mm (0.00inch)
-T7      1.651mm (65mil)                                           Round             3         PTH        0.00mm (0.00inch)
-T8      1.7mm (67mil)                                             Round             52        PTH        0.00mm (0.00inch)
+T7      1.651mm (65mil)                                           Round             4         PTH        0.00mm (0.00inch)
+T8      1.7mm (67mil)                                             Round             50        PTH        0.00mm (0.00inch)
 T9      2.3mm (91mil)                                             Round             2         PTH        0.00mm (0.00inch)
+T10     3mm (118mil)                                              Round             4         PTH        0.00mm (0.00inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              239
+Totals                                                                              247
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01
