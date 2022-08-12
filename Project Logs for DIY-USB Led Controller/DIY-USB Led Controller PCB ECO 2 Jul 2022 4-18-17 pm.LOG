@@ -1,0 +1,8 @@
+Added Component: Designator=D1(LED 0805)
+Added Component: Designator=R1(RES SMD 0805)
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Member To Class: ClassName=DIY-USB Led Controller Member=Component D1 LY R976-PS-36
+Added Member To Class: ClassName=DIY-USB Led Controller Member=Component R1 1K

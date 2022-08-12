@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=U3 Old Footprint=64-TQFP New Footprint=64-LQFP
+Added Member To Class: ClassName=U_microcontroller Member=Component C8 UVY1C471MPD
+Added Member To Class: ClassName=U_microcontroller Member=Component C10 C0805C475K9PAC7210
+Added Member To Class: ClassName=U_USB_CH340G Member=Component C22 C0805C475K9PAC7210
+Added Member To Class: ClassName=U_USB_CH340G Member=Component C24 C0805C220M5HAC7800
+Added Member To Class: ClassName=U_USB_CH340G Member=Component C25 C0805C220M5HAC7800
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component C28.1 (C28) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component C28.2 (C28) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component C28.3 (C28) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component C28.4 (C28) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component C28.5 (C28) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component C28.6 (C28) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component C28.7 (C28) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component C28.8 (C28) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component C28.9 (C28) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component C28.10 (C28) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component C29.2 (C29) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component C29.4 (C29) C0805C104M5RAC7025

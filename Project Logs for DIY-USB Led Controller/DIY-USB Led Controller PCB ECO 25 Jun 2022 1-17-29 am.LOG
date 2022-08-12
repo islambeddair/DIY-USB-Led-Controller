@@ -1,0 +1,480 @@
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=VCC Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=VCC Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=+12 Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=GND Pin=D3-1
+Removed Pin From Net: NetName=+12 Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=NetF1_2 Pin=R1-2
+Removed Pin From Net: NetName=VCC Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=VCC Pin=U2-2
+Removed Pin From Net: NetName=NetF1_2 Pin=U2-3
+Removed Pin From Net: NetName=VCC Pin=U2-4
+Change Component Designator: OldDesignator=C11 NewDesignator=C6
+Change Component Designator: OldDesignator=C12 NewDesignator=C7
+Change Component Designator: OldDesignator=C13 NewDesignator=C8
+Change Component Designator: OldDesignator=C14 NewDesignator=C9
+Change Component Designator: OldDesignator=C15 NewDesignator=C10
+Change Component Designator: OldDesignator=C16 NewDesignator=C11
+Change Component Designator: OldDesignator=C17 NewDesignator=C12
+Change Component Designator: OldDesignator=C18 NewDesignator=C13
+Change Component Designator: OldDesignator=C19 NewDesignator=C14
+Change Component Designator: OldDesignator=C20 NewDesignator=C15
+Change Component Designator: OldDesignator=C21 NewDesignator=C16
+Change Component Designator: OldDesignator=C22 NewDesignator=C17
+Change Component Designator: OldDesignator=C23 NewDesignator=C18
+Change Component Designator: OldDesignator=C24 NewDesignator=C19
+Change Component Designator: OldDesignator=C25 NewDesignator=C20
+Change Component Designator: OldDesignator=C26.1 NewDesignator=C21.1
+Change Component Designator: OldDesignator=C26.2 NewDesignator=C21.2
+Change Component Designator: OldDesignator=C26.3 NewDesignator=C21.3
+Change Component Designator: OldDesignator=C26.4 NewDesignator=C21.4
+Change Component Designator: OldDesignator=C26.5 NewDesignator=C21.5
+Change Component Designator: OldDesignator=C26.6 NewDesignator=C21.6
+Change Component Designator: OldDesignator=C26.7 NewDesignator=C21.7
+Change Component Designator: OldDesignator=C26.8 NewDesignator=C21.8
+Change Component Designator: OldDesignator=C26.9 NewDesignator=C21.9
+Change Component Designator: OldDesignator=C26.10 NewDesignator=C21.10
+Change Component Designator: OldDesignator=C27.1 NewDesignator=C22.1
+Change Component Designator: OldDesignator=C27.2 NewDesignator=C22.2
+Change Component Designator: OldDesignator=C27.3 NewDesignator=C22.3
+Change Component Designator: OldDesignator=C27.4 NewDesignator=C22.4
+Change Component Designator: OldDesignator=C27.5 NewDesignator=C22.5
+Change Component Designator: OldDesignator=C27.6 NewDesignator=C22.6
+Change Component Designator: OldDesignator=C27.7 NewDesignator=C22.7
+Change Component Designator: OldDesignator=C27.8 NewDesignator=C22.8
+Change Component Designator: OldDesignator=C27.9 NewDesignator=C22.9
+Change Component Designator: OldDesignator=C27.10 NewDesignator=C22.10
+Change Component Designator: OldDesignator=C28.1 NewDesignator=C23.1
+Change Component Designator: OldDesignator=C28.2 NewDesignator=C23.2
+Change Component Designator: OldDesignator=C28.3 NewDesignator=C23.3
+Change Component Designator: OldDesignator=C28.4 NewDesignator=C23.4
+Change Component Designator: OldDesignator=C28.5 NewDesignator=C23.5
+Change Component Designator: OldDesignator=C28.6 NewDesignator=C23.6
+Change Component Designator: OldDesignator=C28.7 NewDesignator=C23.7
+Change Component Designator: OldDesignator=C28.8 NewDesignator=C23.8
+Change Component Designator: OldDesignator=C28.9 NewDesignator=C23.9
+Change Component Designator: OldDesignator=C28.10 NewDesignator=C23.10
+Change Component Designator: OldDesignator=C29.1 NewDesignator=C24.1
+Change Component Designator: OldDesignator=C29.2 NewDesignator=C24.2
+Change Component Designator: OldDesignator=C29.3 NewDesignator=C24.3
+Change Component Designator: OldDesignator=C29.4 NewDesignator=C24.4
+Change Component Designator: OldDesignator=C29.5 NewDesignator=C24.5
+Change Component Designator: OldDesignator=C29.6 NewDesignator=C24.6
+Change Component Designator: OldDesignator=C29.7 NewDesignator=C24.7
+Change Component Designator: OldDesignator=C29.8 NewDesignator=C24.8
+Change Component Designator: OldDesignator=C29.9 NewDesignator=C24.9
+Change Component Designator: OldDesignator=C29.10 NewDesignator=C24.10
+Change Component Designator: OldDesignator=D4 NewDesignator=D1
+Change Component Designator: OldDesignator=D5 NewDesignator=D2
+Change Component Designator: OldDesignator=D6 NewDesignator=D3
+Change Component Designator: OldDesignator=D7.1 NewDesignator=D4.1
+Change Component Designator: OldDesignator=D7.2 NewDesignator=D4.2
+Change Component Designator: OldDesignator=D7.3 NewDesignator=D4.3
+Change Component Designator: OldDesignator=D7.4 NewDesignator=D4.4
+Change Component Designator: OldDesignator=D7.5 NewDesignator=D4.5
+Change Component Designator: OldDesignator=D7.6 NewDesignator=D4.6
+Change Component Designator: OldDesignator=D7.7 NewDesignator=D4.7
+Change Component Designator: OldDesignator=D7.8 NewDesignator=D4.8
+Change Component Designator: OldDesignator=D7.9 NewDesignator=D4.9
+Change Component Designator: OldDesignator=D7.10 NewDesignator=D4.10
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J6 NewDesignator=J5
+Change Component Designator: OldDesignator=J7 NewDesignator=J6
+Change Component Designator: OldDesignator=J8 NewDesignator=J4
+Change Component Designator: OldDesignator=J8 NewDesignator=J7
+Change Component Designator: OldDesignator=J9 NewDesignator=J8
+Change Component Designator: OldDesignator=J10.1 NewDesignator=J9.1
+Change Component Designator: OldDesignator=J10.2 NewDesignator=J9.2
+Change Component Designator: OldDesignator=J10.3 NewDesignator=J9.3
+Change Component Designator: OldDesignator=J10.4 NewDesignator=J9.4
+Change Component Designator: OldDesignator=J10.5 NewDesignator=J9.5
+Change Component Designator: OldDesignator=J10.6 NewDesignator=J9.6
+Change Component Designator: OldDesignator=J10.7 NewDesignator=J9.7
+Change Component Designator: OldDesignator=J10.8 NewDesignator=J9.8
+Change Component Designator: OldDesignator=J10.9 NewDesignator=J9.9
+Change Component Designator: OldDesignator=J10.10 NewDesignator=J9.10
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Change Component Designator: OldDesignator=R10 NewDesignator=R8
+Change Component Designator: OldDesignator=R11.1 NewDesignator=R9.1
+Change Component Designator: OldDesignator=R11.2 NewDesignator=R9.2
+Change Component Designator: OldDesignator=R11.3 NewDesignator=R9.3
+Change Component Designator: OldDesignator=R11.4 NewDesignator=R9.4
+Change Component Designator: OldDesignator=R11.5 NewDesignator=R9.5
+Change Component Designator: OldDesignator=R11.6 NewDesignator=R9.6
+Change Component Designator: OldDesignator=R11.7 NewDesignator=R9.7
+Change Component Designator: OldDesignator=R11.8 NewDesignator=R9.8
+Change Component Designator: OldDesignator=R11.9 NewDesignator=R9.9
+Change Component Designator: OldDesignator=R11.10 NewDesignator=R9.10
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Change Component Designator: OldDesignator=u5 NewDesignator=u4
+Change Component Designator: OldDesignator=U6.1 NewDesignator=U5.1
+Change Component Designator: OldDesignator=U6.2 NewDesignator=U5.2
+Change Component Designator: OldDesignator=U6.3 NewDesignator=U5.3
+Change Component Designator: OldDesignator=U6.4 NewDesignator=U5.4
+Change Component Designator: OldDesignator=U6.5 NewDesignator=U5.5
+Change Component Designator: OldDesignator=U6.6 NewDesignator=U5.6
+Change Component Designator: OldDesignator=U6.7 NewDesignator=U5.7
+Change Component Designator: OldDesignator=U6.8 NewDesignator=U5.8
+Change Component Designator: OldDesignator=U6.9 NewDesignator=U5.9
+Change Component Designator: OldDesignator=U6.10 NewDesignator=U5.10
+Change Component Designator: OldDesignator=U7.1 NewDesignator=U6.1
+Change Component Designator: OldDesignator=U7.2 NewDesignator=U6.2
+Change Component Designator: OldDesignator=U7.3 NewDesignator=U6.3
+Change Component Designator: OldDesignator=U7.4 NewDesignator=U6.4
+Change Component Designator: OldDesignator=U7.5 NewDesignator=U6.5
+Change Component Designator: OldDesignator=U7.6 NewDesignator=U6.6
+Change Component Designator: OldDesignator=U7.7 NewDesignator=U6.7
+Change Component Designator: OldDesignator=U7.8 NewDesignator=U6.8
+Change Component Designator: OldDesignator=U7.9 NewDesignator=U6.9
+Change Component Designator: OldDesignator=U7.10 NewDesignator=U6.10
+Change Component Designator: OldDesignator=U8.1 NewDesignator=U7.1
+Change Component Designator: OldDesignator=U8.2 NewDesignator=U7.2
+Change Component Designator: OldDesignator=U8.3 NewDesignator=U7.3
+Change Component Designator: OldDesignator=U8.4 NewDesignator=U7.4
+Change Component Designator: OldDesignator=U8.5 NewDesignator=U7.5
+Change Component Designator: OldDesignator=U8.6 NewDesignator=U7.6
+Change Component Designator: OldDesignator=U8.7 NewDesignator=U7.7
+Change Component Designator: OldDesignator=U8.8 NewDesignator=U7.8
+Change Component Designator: OldDesignator=U8.9 NewDesignator=U7.9
+Change Component Designator: OldDesignator=U8.10 NewDesignator=U7.10
+Change Component Designator: OldDesignator=U9.1 NewDesignator=U8.1
+Change Component Designator: OldDesignator=U9.2 NewDesignator=U8.2
+Change Component Designator: OldDesignator=U9.3 NewDesignator=U8.3
+Change Component Designator: OldDesignator=U9.4 NewDesignator=U8.4
+Change Component Designator: OldDesignator=U9.5 NewDesignator=U8.5
+Change Component Designator: OldDesignator=U9.6 NewDesignator=U8.6
+Change Component Designator: OldDesignator=U9.7 NewDesignator=U8.7
+Change Component Designator: OldDesignator=U9.8 NewDesignator=U8.8
+Change Component Designator: OldDesignator=U9.9 NewDesignator=U8.9
+Change Component Designator: OldDesignator=U9.10 NewDesignator=U8.10
+Added Component: Designator=C25(Cap 6.3x11 THT)
+Added Component: Designator=C26(Cap 6.3x11 THT)
+Added Component: Designator=C27(Cap 6.3x11 THT)
+Added Component: Designator=C28(CAP SMD 0805)
+Added Component: Designator=C29(CAP SMD 0805)
+Added Component: Designator=D5(Diod DO-214AC)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DO-214-AB/SMC; 2 C-Bend Leads; Body 7.9 x 5.9 mm, inc. leads (LxW)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Sep-1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D6(LED 0805)
+Added Component: Designator=D7(LED 0805)
+Added Component: Designator=J10(CONN. 2)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282834&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/te-connectivity-amp-connectors/282834-2/A98333-ND/1150135"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "1/15/2020 4:15:38 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Orientation"; Value = "Horizontal with Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions Per Level"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.88"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Buchanan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A98333-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge"; Value = "16-30 AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Termination"; Value = "Screw - Rising Cage Clamp"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES SMD 0805)
+Added Component: Designator=R11(RES SMD 0805)
+Added Component: Designator=U9(ON SEMI SOT-223 ST(318H))
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOT223-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "TO-261-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LM1117 Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/ds/LM/LM1117.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "LM1117 Web Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/pf/LM/LM1117.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "MP04A Package Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.national.com/packaging/folders/mp04a.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "LDO IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High-Reliability"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Molded SOT-223, 6.50 x 3.56 x 1.6mm Body, 4 Lead, 2.3mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MP04A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "XYTT*N06B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revB, Apr-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LM1117IMP-5.0/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=VCC Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=VCC Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=+12 Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D7-1
+Added Pin To Net: NetName=+12 Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=NetF1_2 Pin=R10-2
+Added Pin To Net: NetName=VCC Pin=R11-2
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=VCC Pin=U9-2
+Added Pin To Net: NetName=NetF1_2 Pin=U9-3
+Added Pin To Net: NetName=VCC Pin=U9-4
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC6_2
+Change Net Name : Old Net Name=NetC24_2 New Net Name=NetC19_2
+Change Net Name : Old Net Name=NetC25_2 New Net Name=NetC20_2
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD7.1_2 New Net Name=NetD4.1_2
+Change Net Name : Old Net Name=NetD7.2_2 New Net Name=NetD4.2_2
+Change Net Name : Old Net Name=NetD7.3_2 New Net Name=NetD4.3_2
+Change Net Name : Old Net Name=NetD7.4_2 New Net Name=NetD4.4_2
+Change Net Name : Old Net Name=NetD7.5_2 New Net Name=NetD4.5_2
+Change Net Name : Old Net Name=NetD7.6_2 New Net Name=NetD4.6_2
+Change Net Name : Old Net Name=NetD7.7_2 New Net Name=NetD4.7_2
+Change Net Name : Old Net Name=NetD7.8_2 New Net Name=NetD4.8_2
+Change Net Name : Old Net Name=NetD7.9_2 New Net Name=NetD4.9_2
+Change Net Name : Old Net Name=NetD7.10_2 New Net Name=NetD4.10_2
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=NetJ1_3 New Net Name=NetJ2_3
+Change Net Name : Old Net Name=NetU3_4 New Net Name=NetU2_4
+Change Net Name : Old Net Name=NetU3_5 New Net Name=NetU2_5
+Change Net Name : Old Net Name=NetU3_48 New Net Name=NetU2_48
+Change Net Name : Old Net Name=NetU3_49 New Net Name=NetU2_49
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=NetC25_1 Pin=C26-1
+Added Pin To Net: NetName=NetC25_1 Pin=C29-2
+Added Pin To Net: NetName=NetC25_1 Pin=D5-1
+Added Pin To Net: NetName=NetC25_1 Pin=F1-1
+Added Net: Name=NetC25_1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R10-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=R11-1
+Added Net: Name=NetD7_2
+Added Class: Name=U_power supply
+Added Member To Class: ClassName=U_Rs232 Member=Component C1 C0805C105K5RACAUTO
+Added Member To Class: ClassName=U_Rs232 Member=Component C2 C0805C105K5RACAUTO
+Added Member To Class: ClassName=U_Rs232 Member=Component C3 C0805C105K5RACAUTO
+Added Member To Class: ClassName=U_Rs232 Member=Component C4 C0805C105K5RACAUTO
+Added Member To Class: ClassName=U_Rs232 Member=Component C5 C0805C104M5RAC7025
+Added Member To Class: ClassName=U_microcontroller Member=Component C6 C0805C104M5RAC7025
+Added Member To Class: ClassName=U_microcontroller Member=Component C7 C0805C104M5RAC7025
+Added Member To Class: ClassName=U_microcontroller Member=Component C8 C0805C104M5RAC7025
+Added Member To Class: ClassName=U_microcontroller Member=Component C9 C0805C104M5RAC7025
+Added Member To Class: ClassName=U_microcontroller Member=Component C10 C0805C104M5RAC7025
+Added Member To Class: ClassName=U_microcontroller Member=Component C11 C0805C104M5RAC7025
+Added Member To Class: ClassName=U_microcontroller Member=Component C12 C0805C475K9PAC7210
+Added Member To Class: ClassName=U_microcontroller Member=Component C13 C0805C475K9PAC7210
+Added Member To Class: ClassName=U_microcontroller Member=Component C14 C0805C475K9PAC7210
+Added Member To Class: ClassName=U_microcontroller Member=Component C15 C0805C475K9PAC7210
+Added Member To Class: ClassName=U_EEPROM Member=Component C16 C0805C104M5RAC7025
+Added Member To Class: ClassName=U_USB_CH340G Member=Component C17 C0805C475K9PAC7210
+Added Member To Class: ClassName=U_USB_CH340G Member=Component C18 C0805C104M5RAC7025
+Added Member To Class: ClassName=U_USB_CH340G Member=Component C19 C0805C220M5HAC7800
+Added Member To Class: ClassName=U_USB_CH340G Member=Component C20 C0805C220M5HAC7800
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component C21.1 (C21) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component C21.2 (C21) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component C21.3 (C21) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component C21.4 (C21) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component C21.5 (C21) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component C21.6 (C21) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component C21.7 (C21) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component C21.8 (C21) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component C21.9 (C21) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component C21.10 (C21) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component C22.1 (C22) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component C22.2 (C22) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component C22.3 (C22) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component C22.4 (C22) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component C22.5 (C22) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component C22.6 (C22) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component C22.7 (C22) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component C22.8 (C22) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component C22.9 (C22) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component C22.10 (C22) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component C23.1 (C23) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component C23.2 (C23) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component C23.3 (C23) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component C23.4 (C23) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component C23.5 (C23) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component C23.6 (C23) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component C23.7 (C23) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component C23.8 (C23) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component C23.9 (C23) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component C23.10 (C23) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component C24.1 (C24) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component C24.2 (C24) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component C24.3 (C24) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component C24.4 (C24) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component C24.5 (C24) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component C24.6 (C24) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component C24.7 (C24) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component C24.8 (C24) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component C24.9 (C24) C0805C104M5RAC7025
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component C24.10 (C24) C0805C104M5RAC7025
+Added Member To Class: ClassName=U_USB_CH340G Member=Component D1 LY R976-PS-36
+Added Member To Class: ClassName=U_USB_CH340G Member=Component D2 LY R976-PS-36
+Added Member To Class: ClassName=U_USB_CH340G Member=Component D3 60V_1A
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component D4.1 (D4) WP154A4SEJ3VBDZGC/CA
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component D4.2 (D4) WP154A4SEJ3VBDZGC/CA
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component D4.3 (D4) WP154A4SEJ3VBDZGC/CA
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component D4.4 (D4) WP154A4SEJ3VBDZGC/CA
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component D4.5 (D4) WP154A4SEJ3VBDZGC/CA
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component D4.6 (D4) WP154A4SEJ3VBDZGC/CA
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component D4.7 (D4) WP154A4SEJ3VBDZGC/CA
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component D4.8 (D4) WP154A4SEJ3VBDZGC/CA
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component D4.9 (D4) WP154A4SEJ3VBDZGC/CA
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component D4.10 (D4) WP154A4SEJ3VBDZGC/CA
+Added Member To Class: ClassName=U_Rs232 Member=Component J1 Socket
+Added Member To Class: ClassName=U_Rs232 Member=Component J2 RS232
+Added Member To Class: ClassName=U_Rs232 Member=Component J3 Socket
+Added Member To Class: ClassName=U_microcontroller Member=Component J4 HEADER 2x3
+Added Member To Class: ClassName=U_EEPROM Member=Component J5 Socket
+Added Member To Class: ClassName=U_EEPROM Member=Component J6 Socket
+Added Member To Class: ClassName=U_USB_CH340G Member=Component J7 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=U_USB_CH340G Member=Component J8 UJ2-BH-W1-TH
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component J9.1 (J9) Header 5
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component J9.2 (J9) Header 5
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component J9.3 (J9) Header 5
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component J9.4 (J9) Header 5
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component J9.5 (J9) Header 5
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component J9.6 (J9) Header 5
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component J9.7 (J9) Header 5
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component J9.8 (J9) Header 5
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component J9.9 (J9) Header 5
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component J9.10 (J9) Header 5
+Added Member To Class: ClassName=U_USB_CH340G Member=Component Q1 BC807
+Added Member To Class: ClassName=U_USB_CH340G Member=Component Q2 BC807
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component Q3.1 (Q3) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component Q3.2 (Q3) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component Q3.3 (Q3) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component Q3.4 (Q3) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component Q3.5 (Q3) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component Q3.6 (Q3) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component Q3.7 (Q3) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component Q3.8 (Q3) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component Q3.9 (Q3) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component Q3.10 (Q3) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component Q4.1 (Q4) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component Q4.2 (Q4) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component Q4.3 (Q4) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component Q4.4 (Q4) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component Q4.5 (Q4) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component Q4.6 (Q4) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component Q4.7 (Q4) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component Q4.8 (Q4) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component Q4.9 (Q4) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component Q4.10 (Q4) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component Q5.1 (Q5) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component Q5.2 (Q5) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component Q5.3 (Q5) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component Q5.4 (Q5) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component Q5.5 (Q5) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component Q5.6 (Q5) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component Q5.7 (Q5) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component Q5.8 (Q5) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component Q5.9 (Q5) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component Q5.10 (Q5) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component Q6.1 (Q6) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component Q6.2 (Q6) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component Q6.3 (Q6) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component Q6.4 (Q6) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component Q6.5 (Q6) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component Q6.6 (Q6) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component Q6.7 (Q6) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component Q6.8 (Q6) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component Q6.9 (Q6) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component Q6.10 (Q6) NTDV20N06T4G-VF01
+Added Member To Class: ClassName=U_microcontroller Member=Component R1 330R
+Added Member To Class: ClassName=U_microcontroller Member=Component R2 10K
+Added Member To Class: ClassName=U_EEPROM Member=Component R3 10K
+Added Member To Class: ClassName=U_EEPROM Member=Component R4 10K
+Added Member To Class: ClassName=U_USB_CH340G Member=Component R5 1K
+Added Member To Class: ClassName=U_USB_CH340G Member=Component R6 1K
+Added Member To Class: ClassName=U_USB_CH340G Member=Component R7 1K
+Added Member To Class: ClassName=U_USB_CH340G Member=Component R8 1K
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component R9.1 (R9) 1k
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component R9.2 (R9) 1k
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component R9.3 (R9) 1k
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component R9.4 (R9) 1k
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component R9.5 (R9) 1k
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component R9.6 (R9) 1k
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component R9.7 (R9) 1k
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component R9.8 (R9) 1k
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component R9.9 (R9) 1k
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component R9.10 (R9) 1k
+Added Member To Class: ClassName=DIY-USB Led Controller Member=Component S1 DS02-254-2L-04BE
+Added Member To Class: ClassName=U_microcontroller Member=Component S2 TL3301NF260QG
+Added Member To Class: ClassName=U_Rs232 Member=Component U1 MAX232DR
+Added Member To Class: ClassName=U_EEPROM Member=Component U3 24CS512-E/SM
+Added Member To Class: ClassName=U_USB_CH340G Member=Component u4 CH340G
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component U5.1 (U5) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component U5.2 (U5) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component U5.3 (U5) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component U5.4 (U5) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component U5.5 (U5) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component U5.6 (U5) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component U5.7 (U5) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component U5.8 (U5) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component U5.9 (U5) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component U5.10 (U5) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component U6.1 (U6) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component U6.2 (U6) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component U6.3 (U6) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component U6.4 (U6) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component U6.5 (U6) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component U6.6 (U6) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component U6.7 (U6) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component U6.8 (U6) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component U6.9 (U6) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component U6.10 (U6) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component U7.1 (U7) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component U7.2 (U7) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component U7.3 (U7) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component U7.4 (U7) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component U7.5 (U7) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component U7.6 (U7) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component U7.7 (U7) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component U7.8 (U7) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component U7.9 (U7) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component U7.10 (U7) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT01 Member=Component U8.1 (U8) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT2 Member=Component U8.2 (U8) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT3 Member=Component U8.3 (U8) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT4 Member=Component U8.4 (U8) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT5 Member=Component U8.5 (U8) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT6 Member=Component U8.6 (U8) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT7 Member=Component U8.7 (U8) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT8 Member=Component U8.8 (U8) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT9 Member=Component U8.9 (U8) MIC4416YM4-TR
+Added Member To Class: ClassName=U__LED_PORT10 Member=Component U8.10 (U8) MIC4416YM4-TR
+Added Member To Class: ClassName=U_USB_CH340G Member=Component Y1 12MHZ
+Added Room: Name=U_power supply
