@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Projects\DIY-USB-Led-Controller\DIY-USB-Led-Controller\DIY-USB Led Controller.PcbDoc
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Projects\DIY-USB-Led-Controller\DIY-USB Led Controller.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00

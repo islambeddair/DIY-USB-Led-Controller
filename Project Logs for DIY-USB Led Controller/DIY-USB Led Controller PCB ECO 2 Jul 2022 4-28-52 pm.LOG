@@ -1,5 +1,0 @@
-Removed Member From Class: ClassName=DIY-USB Led Controller Member=D1
-Removed Member From Class: ClassName=DIY-USB Led Controller Member=R1
-Change Net Name : Old Net Name=NetD1_2 New Net Name=STATUS_LED
-Added Member To Class: ClassName=U_microcontroller Member=Component D1 LY R976-PS-36
-Added Member To Class: ClassName=U_microcontroller Member=Component R1 1K
